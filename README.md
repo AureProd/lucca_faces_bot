@@ -1,2 +1,2 @@
-# lucca_faces_bot
+# Lucca faces Bot
 Bot for game lucca faces
